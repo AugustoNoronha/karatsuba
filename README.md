@@ -64,14 +64,18 @@ no seu cmd
     - Exibe o resultado da multiplicação no console.
 
 ## Análise ciclomática ##
-M = E - A + 2(P)
-E ( número de arestas ) = 10 
-A ( número de nós ) = 11
-P ( chamda de outras funçoes ) = 1
+M = E - A + 2(P)  
+E ( número de arestas ) = 10   
+A ( número de nós ) = 11  
+P ( chamda de outras funçoes ) = 1  
 
-M = 10 - 11 + 2*1
-M = -1 + 2
-M = 1
+M = 10 - 11 + 2*1  
+M = -1 + 2  
+M = 1  
+
+
+## Grafo algoritimo Karatsuba ##
+![Grafo do algoritimo](./Artefatos/Karatsuba_grafos.png)
 
 
 
